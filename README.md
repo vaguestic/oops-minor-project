@@ -1,11 +1,12 @@
 # oops-minor-project
 import java.util.Scanner;
 
-// Abstract class for the customer
-abstract class Customer {
-    String name;
-    String address;
-    long mobileNumber;
+
+
+
+
+
+
 // Abstract class for the customer
 abstract class Customer {
     String name;
