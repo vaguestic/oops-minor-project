@@ -6,7 +6,11 @@ abstract class Customer {
     String name;
     String address;
     long mobileNumber;
-
+// Abstract class for the customer
+abstract class Customer {
+    String name;
+    String address;
+    long mobileNumber;
     public Customer(String name, String address, long mobileNumber) {
         this.name = name;
         this.address = address;
